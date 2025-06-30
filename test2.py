@@ -3,7 +3,7 @@ import numpy as np
 # from matplotlib.animation import FuncAnimation
 
 # time_steps = 300
-dt = 0.1
+dt  = 0.1
 
 
 class Node:
